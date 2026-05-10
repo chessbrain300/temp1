@@ -2,3 +2,4 @@
 
 this is a temp folder
 new
+merge conflict check
